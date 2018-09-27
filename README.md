@@ -1,2 +1,2 @@
-# FEL_big_data
-Repository for the Big Data Technologies subject
+# FEL Big Data Technologies
+This is a repository for Big Data Technologies subject in 2018/19 winter season.
